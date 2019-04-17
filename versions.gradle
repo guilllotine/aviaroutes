@@ -1,0 +1,13 @@
+ext {
+    supportVersion = '28.0.0'
+    okhttpVersion = '3.8.1'
+    okhttpInterceptorVersion = '3.8.1'
+    retrofitVersion = '2.3.0'
+    rxandroidVersion = '2.1.0'
+    rxjavaVersion = '2.1.0'
+    daggerVersion = '2.12'
+    googleMapsVersion = '16.1.0'
+
+    mokitoViersion = '1.10.19'
+    junitVersion = '4.12'
+}

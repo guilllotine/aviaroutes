@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AviaRoutes</string>
+    <string name="search_button_text">find tickets</string>
+    <string name="error_common">Something went wrong</string>
+    <string name="from_hint">from</string>
+    <string name="to_hint">to</string>
+</resources>
